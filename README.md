@@ -31,9 +31,9 @@ export default ({}) => {
 ## 属性
 | 名称             | 类型    | 描述    |
 |-----------------|--------|---------|
-| color           | String | 线条颜色 |
-| backgroundColor | String | 背景颜色 |
-| lineWidth       | Number | 线条粗细 |
+| color           | String | 线条颜色，默认：'black' |
+| backgroundColor | String | 背景颜色，默认：'white' |
+| lineWidth       | Number | 线条粗细，默认：1|
 | style           | Object | 组件样式 |
 
 ## License
