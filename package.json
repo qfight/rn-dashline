@@ -1,0 +1,24 @@
+{
+  "name": "react-native-dashline",
+  "version": "1.0.0",
+  "description": "React Native虚线（兼容Android）",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfight/react-native-dashline.git"
+  },
+  "keywords": [
+    "react-native",
+    "dashline",
+    "dashed"
+  ],
+  "author": "zdying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qfight/react-native-dashline/issues"
+  },
+  "homepage": "https://github.com/qfight/react-native-dashline#readme"
+}
