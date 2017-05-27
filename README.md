@@ -10,13 +10,13 @@ React Native虚线组件（兼容Android）
 ## 安装
 
 ```bash
-npm install react-native-dashline --save
+npm install rn-dashline --save
 ```
 
 ## 使用
 
 ```js
-import DashLine from 'react-native-dashline';
+import DashLine from 'rn-dashline';
 
 export default ({}) => {
   return (
