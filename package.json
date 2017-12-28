@@ -1,6 +1,6 @@
 {
   "name": "rn-dashline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native虚线（兼容Android）",
   "main": "lib/index.js",
   "scripts": {
